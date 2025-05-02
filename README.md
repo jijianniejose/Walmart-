@@ -2,6 +2,8 @@
 
 This project focuses on analyzing and forecasting Walmart's weekly sales across multiple stores using Python. Leveraging real-world data, I explored sales trends, identified performance patterns, and applied predictive modeling to forecast future sales.
 
+![My Project Screenshot](https://cdn.britannica.com/77/170477-050-1C747EE3/Laptop-computer.jpg)
+
 ## 📌 Project Objectives
 
 ✅ Analyze weekly sales data across multiple stores  
